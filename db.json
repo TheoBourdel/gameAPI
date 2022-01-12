@@ -1,7 +1,7 @@
 {
     "jeux": [
         {
-            "img": "images/beer.png",
+            "img": "/images/beer.png",
             "title": "J'ai déja",
             "subtitle": "allez, avoue",
             "color1": "",
