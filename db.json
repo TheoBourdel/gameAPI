@@ -4,8 +4,8 @@
             "img": "/images/beer.png",
             "title": "J'ai déja",
             "subtitle": "allez, avoue",
-            "color1": "",
-            "color2": ""
+            "color1": "#4250D0",
+            "color2": "#900193"
         },
         {
             "img": "",
