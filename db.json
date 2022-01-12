@@ -3,27 +3,37 @@
         {
             "img": "",
             "title": "J'ai déja",
-            "subtitle": "allez, avoue"
+            "subtitle": "allez, avoue",
+            "color1": "",
+            "color2": ""
         },
         {
             "img": "",
             "title": "Action / Vérité",
-            "subtitle": "le classique"
+            "subtitle": "le classique",
+            "color1": "",
+            "color2": ""
         },
         {
             "img": "",
             "title": "Blind test",
-            "subtitle": "l'incontournable"
+            "subtitle": "l'incontournable",
+            "color1": "",
+            "color2": ""
         },
         {
             "img": "",
             "title": "test",
-            "subtitle": "test !"
+            "subtitle": "test !",
+            "color1": "",
+            "color2": ""
         },
         {
             "img": "",
             "title": "sheesh",
-            "subtitle": "test"
+            "subtitle": "test",
+            "color1": "",
+            "color2": ""
         }
     ]
 }
