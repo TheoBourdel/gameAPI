@@ -10,13 +10,13 @@
             "img": "/images/beer.png",
             "title": "Action / Vérité",
             "subtitle": "le classique",
-            "background": "bg-gradient-to-r from-[#FF0865] to-[#07B9F5]"
+            "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
         },
         {
             "img": "",
             "title": "Blind test",
             "subtitle": "l'incontournable",
-            "background": "bg-gradient-to-r from-[#66bfbf] to-[#ff5959]"
+            "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
         },
         {
             "img": "",
