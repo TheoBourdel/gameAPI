@@ -4,12 +4,14 @@
             "img": "/images/drink.png",
             "title": "J'ai déja",
             "subtitle": "allez, avoue",
+            "rules": "test rgèle pour le j'ai déja",
             "background": "bg-gradient-to-r from-indigo-500 to-pink-500"
         },
         {
             "img": "/images/beer.png",
             "title": "Action / Vérité",
             "subtitle": "le classique",
+            "rules": "test de règle pour l'action vérité",
             "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
         },
         {
