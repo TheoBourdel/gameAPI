@@ -4,15 +4,13 @@
             "img": "/images/beer.png",
             "title": "J'ai déja",
             "subtitle": "allez, avoue",
-            "color1": "#4250D0",
-            "color2": "#f64dfa"
+            "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
         },
         {
             "img": "/images/beer.png",
             "title": "Action / Vérité",
             "subtitle": "le classique",
-            "color1": "#089301",
-            "color2": "#930101"
+            "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
         },
         {
             "img": "",
