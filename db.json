@@ -4,25 +4,25 @@
             "img": "/images/beer.png",
             "title": "J'ai déja",
             "subtitle": "allez, avoue",
-            "background": "bg-gradient-to-r from-indigo-500 to-pink-500",
+            "background": "bg-gradient-to-r from-indigo-500 to-pink-500"
         },
         {
             "img": "/images/beer.png",
             "title": "Action / Vérité",
             "subtitle": "le classique",
-            "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]",
+            "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
         },
         {
             "img": "",
             "title": "Blind test",
             "subtitle": "l'incontournable",
-            "background": "bg-gradient-to-r from-yellow-800 to-green-700",
+            "background": "bg-gradient-to-r from-yellow-800 to-green-700"
         },
         {
             "img": "",
             "title": "test",
             "subtitle": "test !",
-            "background": "bg-gradient-to-r from-yellow-800 to-green-700",
+            "background": "bg-gradient-to-r from-yellow-800 to-green-700"
         },
         {
             "img": "",
