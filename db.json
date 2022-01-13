@@ -4,7 +4,7 @@
             "img": "/images/beer.png",
             "title": "J'ai déja",
             "subtitle": "allez, avoue",
-            "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
+            "background": "bg-gradient-to-r from-indigo-500 to-pink-500"
         },
         {
             "img": "/images/beer.png",
