@@ -1,7 +1,7 @@
 {
     "jeux": [
         {
-            "img": "https://github.com/TheoBourdel/gameAPI/blob/main/images/drink.png",
+            "img": "/images/drink.png",
             "title": "J'ai déja",
             "subtitle": "allez, avoue",
             "background": "bg-gradient-to-r from-indigo-500 to-pink-500"
