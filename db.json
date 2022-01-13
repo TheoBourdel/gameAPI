@@ -16,8 +16,7 @@
             "img": "",
             "title": "Blind test",
             "subtitle": "l'incontournable",
-            "color1": "",
-            "color2": ""
+            "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
         },
         {
             "img": "",
