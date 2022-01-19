@@ -11,7 +11,7 @@
         {
             "id": 2,
             "img": "/images/beer.png",
-            "title": "Action / Vérité",
+            "title": "Action ou Vérité",
             "subtitle": "le classique",
             "rules": "test de règle pour l'action vérité",
             "background": "bg-gradient-to-r from-[#4250D0] to-[#f64dfa]"
